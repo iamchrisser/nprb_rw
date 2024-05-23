@@ -49,10 +49,7 @@ link <- 'https://gql.researchworkspace.com/graphql'
 conn <- GraphqlClient$new(url = link)
 all_proj <- Query$new()$query('link', query_all_proj)
 
-outfile <- paste("results/nprb_all_projects_", as.character(Sys.Date()),".csv", sep="")
-print(outfile)
-write.csv(good_names, outfile, row.names = FALSE)
-
+# given a project ID, query the GQL endpoint for project info, return result
 get_project_info <- function(project_id){
   temp_var <-list(projectId = project_id)
   print(paste("Querying for project: ", project_id, sep=""))
@@ -76,12 +73,13 @@ for (y in project_years){
   ids <- unlist(project_df[startsWith(project_df$name, y),]$id)
   
   for (i in ids){
-    get_project_info(i) %>%
-      clean_project_info() %>%
-      rbind(proj_results_df)
+    p <- get_project_info(i)
+    c <-  clean_project_info(p)
+    proj_results_df <- rbind(proj_results_df, c)
   }
   
   print(paste("writing results for year: ", y, sep=""))
   outfile <- paste("results/nprb_projects_", y, "_", as.character(Sys.Date()),".csv", sep="")
+  write.csv(proj_results_df, outfile, row.names = FALSE)
   print("Done.")
 }
