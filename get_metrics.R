@@ -1,5 +1,6 @@
+library(readr)
 
-
+#read in project info from GQL query results
 gql_results <- list.files("results/", pattern = "*.csv")
 
 get_project_volumes <- function(project_files){
@@ -22,8 +23,8 @@ get_project_volumes <- function(project_files){
 }
 
 ps <- get_project_volumes(gql_results)
+write.csv(ps, "metrics/project_volumes.csv")
 
-min(project_size$project_volume)
-
-
-sum(project_size$project_volume)
+# get_archive_volumes <- function(){
+#   
+# }
