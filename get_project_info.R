@@ -22,8 +22,7 @@ project_df[project_df == "—"] <- NA
 project_df <- transform(project_df, archived = as.integer(archived), public = as.integer(public), files = as.integer(files))
 project_df <- transform(project_df, archived = as.logical(archived), public = as.logical(public))
 
-project_years <- c("14", "15", "16", "17", "18", "19", "20", "21", "22", "23")
-#project_years <- c("02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23")
+project_years <- c("02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23")
 project_ids <- unlist(project_df$id)
 good_names <- c("proj.id", "proj.name", "folder.id", "folder.name", "folder.path")
 
@@ -58,6 +57,7 @@ get_project_info <- function(project_id){
   return(result)
 }
 
+
 clean_project_info <- function(gql_result){
   project_df <- gql_result$data$project$folders$nodes
   p.name <- rep(gql_result$data$project$name, nrow(project_df))
@@ -74,9 +74,14 @@ for (y in project_years){
   ids <- unlist(project_df[startsWith(project_df$name, y),]$id)
   
   for (i in ids){
-    p <- get_project_info(i)
-    c <-  clean_project_info(p)
-    proj_results_df <- rbind(proj_results_df, c)
+    if(i == 281424){
+      next
+    }
+    else{
+      p <- get_project_info(i)
+      c <-  clean_project_info(p)
+      proj_results_df <- rbind(proj_results_df, c)
+    }
   }
   
   print(paste("writing results for year: ", y, sep=""))
