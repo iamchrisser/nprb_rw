@@ -21,6 +21,7 @@ project_df[project_df == "[object Object]"] <- "1"
 project_df[project_df == "—"] <- NA
 project_df <- transform(project_df, archived = as.integer(archived), public = as.integer(public), files = as.integer(files))
 project_df <- transform(project_df, archived = as.logical(archived), public = as.logical(public))
+write_csv(project_df, "nprb_all-projects_clean/nprb_all_projects_clean.csv")
 
 project_years <- c("02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23")
 project_ids <- unlist(project_df$id)
