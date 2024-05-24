@@ -1,0 +1,582 @@
+id,name,archived,public,files
+281460,1212 Movement and wintering areas of Aleutian auklets (Aethia spp.),NA,TRUE,329
+372261,1226 Crowdsourcing large-scale environmental data recovery,NA,TRUE,6
+281515,1302 Bering-Chukchi transport pathways,NA,TRUE,399
+281524,1303 High through-put sequencing of Arctic benthic meiofauna,NA,TRUE,314
+281542,1305 Abundance and movement of Steller sea lion groundfish prey,NA,TRUE,11
+281551,1306 Connectivity of Prince William Sound Pacific cod to the GOA,NA,TRUE,17
+281560,1307 Scallop benthic communities,NA,TRUE,1
+281587,1310 LHX2,NA,TRUE,5
+281641,1320 Automated image processing of stero images,NA,TRUE,1
+281659,1322 Large-scale data recovery for the North Pacific - Arctic,NA,TRUE,4
+281668,1323 Graying of the fleet,NA,TRUE,5
+281677,1401 Improving stock assessments for rockfishes,NA,TRUE,9
+281687,1402 Red king crab larval advection in Bristol Bay,NA,TRUE,103
+281696,1403 Environmental effects on gadid eggs an larvae in Alaska,NA,TRUE,11
+281705,1404 Skate nursuries as unique habitats in the eastern Bering Sea,NA,TRUE,26
+281714,1405 Trophic interactions between jellyfish and fish,NA,TRUE,17
+281741,1408 Seabirds and Bering Sea ecological change,NA,TRUE,1
+281750,1409 Breeding/non-breeding foraging ecology of red-legged kittiwakes,NA,TRUE,14
+281759,1410 Looking into the Bering Sea's past through seabird feathers,NA,TRUE,2
+281768,1411 Influenza evolution in synanthropic gulls,NA,TRUE,3
+281777,1412 Yukon River patterns and trends,NA,TRUE,15
+281786,1413 Value of salmon,NA,TRUE,33
+281795,1414 Copper River salmon blitz,NA,TRUE,4
+281804,1415 Coastal community ocean observers (C2O2),NA,TRUE,732
+281822,1417 Using cell-cycle analysis to measure growth of fish larvae,NA,TRUE,4
+281831,1418 LHX2 sensor development,NA,TRUE,2
+281840,1419 Framework for mobile development of ZOOVIS and DIDSON,NA,TRUE,92
+281849,1420 Rescuing marine mammal specimens at the University of Alaska,NA,TRUE,1
+281858,1421 Historical sea ice mapping project,NA,TRUE,3
+281867,1422 AYK Chinook salmon egg thiamine exploration,NA,TRUE,2
+281876,1423 Defining critical periods for YK Chinook,NA,TRUE,855
+281885,1424 Fitness-based habitat models for Chinook salmon,NA,TRUE,25
+302403,1425 North Pacific CPR,NA,TRUE,NA
+302408,Chukchi Ecosystem Observatory (CEO),NA,TRUE,212338
+302413,1427 Seward Line,NA,TRUE,NA
+268977,1501 Acoustic assessment of euphausiid ('krill') abundance,NA,TRUE,7
+268979,1502 PWS Secondary Production,NA,TRUE,1218
+268981,1503 Tracing sea ice algae using IP25,NA,TRUE,19
+268983,1504 Chukchi Sea Ice Melt,NA,TRUE,54
+268985,1505 Cod size at age,NA,TRUE,6
+268987,1506 Crustacean Age Determination,NA,TRUE,6
+268989,1507 Combined bottom trawl and acoustic-trawl survey catchability,NA,TRUE,112
+268991,1508 Arctic Gadids in a Changing Climate,NA,TRUE,205
+268993,1509 Spatial response of northeast Pacific groundfish to anomalous warming in 2015,NA,TRUE,20
+268995,1510 Halibut survival for trawlers using alternative handling methods,NA,TRUE,169
+268997,1511 Bering Strait marine mammal acoustic monitoring,NA,TRUE,200
+268999,1512 Steller sea lion habitat modeling,NA,TRUE,3
+269001,1513 Protein and fat dynamics of polar bears,NA,TRUE,5
+269003,1514 Genetics of North Pacific bearded seals,NA,TRUE,3
+269005,1515 Glider based Arctic marine mammal monitoring,NA,TRUE,4
+269007,1516 Abundance of Bristol Bay beluga whales,NA,TRUE,3
+269009,1517 New methods for modeling seabird populations,NA,TRUE,22
+269011,1518 Effects of salinity on eider ducklings,NA,TRUE,6
+269013,1519 Social and ecological resilience in a Gulf of Alaska community,NA,TRUE,39
+269015,1520 Adaptation to Environmental Change in Three Aleutian Island Communities,NA,TRUE,210
+269017,"1521 Northern Alaska Sea Ice Project Jukebox, Phase II",NA,TRUE,4
+269019,1522 The effects of dispersants and dispersed oil on mussels,NA,TRUE,11
+269021,1523 The Pervasive Invasive: Assessing the Risk of Marine Invasive Species in the Bering Sea,NA,TRUE,15
+269023,1524 Investigating causes of decline of the Klawock Lake sockeye salmon population,NA,TRUE,9
+269025,1525 Automated Fish Measuring System,NA,TRUE,139
+269027,1526 Stock Structure of Aleutian Island Golden King Crab,NA,TRUE,7
+269029,1527 Environmental DNA (eDNA) analyses as a fisheries survey tool,NA,TRUE,70
+269031,1528 Assessing reproductive histories using pinniped whiskers,NA,TRUE,5
+269033,1529 Tracking marine fish with a payload-controlled AUV,NA,TRUE,1059
+269035,1530 Citizen science OCR,NA,TRUE,2
+269037,1531 Construction of a fish health and body composition analyzer,NA,TRUE,4
+269039,1532 Historical data recovery,NA,TRUE,4
+269041,1533 GOAIERP synthesis,NA,TRUE,5
+1816098,1601 Extreme Alaska,NA,TRUE,83
+1816117,1602 Physical drivers influencing net marine community production,NA,TRUE,24
+1816142,1603 North Pacific Crab Growth,NA,TRUE,5
+1816156,1604 Improving Aleutian Islands Bathymetry,NA,TRUE,8
+1816176,"1605 Bering Sea flatfish age, growth, and maturity modeling",NA,TRUE,7
+1816195,1606 Remote Sensing of Razor Clams,NA,TRUE,1016
+1816216,1607 Reducing the prohibited species catch of Pacific halibut,NA,TRUE,76
+1816239,1608 Pribilof Islands blue king crab recruitment limitation,NA,TRUE,524
+1816257,1609 Qualitative approaches for evaluating blue king crab management,NA,TRUE,12
+1816283,1610 Bowhead Whale Source Levels,NA,TRUE,3
+1816303,1611 Fecal hormones in Otariids,NA,TRUE,9
+1816317,1612 Migration and carry-over effects in Arctic seabirds,NA,TRUE,55
+1816335,1613 Local and traditional knowledge of Alaska coastal ecosystems,NA,TRUE,9
+1816353,1614 Iñupiaq Knowledge of Polar Bears in the Southern Beaufort Sea,NA,TRUE,21
+1816378,1615 Pteropods as indicators in the high latitudinal environment,NA,TRUE,8
+1816396,1616 Community Based PSP Testing for Shellfish,NA,TRUE,36
+1816421,1617 CONAS,NA,TRUE,3
+2509648,1618 Genetic population structure of seaweeds in Alaska,NA,NA,NA
+1816443,1618 Genetic population structure of seaweeds in Alaska,NA,TRUE,16
+1816459,1619 RRS of pink salmon in PWS,NA,TRUE,3
+1816475,1620 VitaLink: satellite tag data recovery,NA,TRUE,2
+1816489,1621 Removing invasive Didemnum vexillum,NA,TRUE,9
+1816511,1622 ADF&G Data Rescue and Dissemination,TRUE,TRUE,112
+1803847,Common Murre Mortality Analysis,NA,NA,NA
+1800750,Data Archive,NA,NA,NA
+2531866,New integrated modeling tools to improve monitoring and demographic analyses,NA,NA,1
+365872,0201 Pilot nearshore habitat mapping using acoustic and visual techniques,NA,TRUE,221
+367633,0202 Application of new sonar technology to reducing salmon bycatch in pollock fisheries,NA,TRUE,10
+370289,0203 Continuation of long-term observations on Bering Sea shelf: biophysical moorings at sites 2 and 4,NA,TRUE,27
+367646,0204 North Pacific Anadromous Fish Commission Salmon Tagging,NA,TRUE,7
+368673,0205 Genetic stock identification of western Alaska sockeye salmon,NA,TRUE,20
+368682,0206 Integration of marine bird and mammal observations with the continuous plankton recorder program,NA,TRUE,11
+366592,0207 Detecting change in the Bering Sea ecosystem,NA,TRUE,350
+368695,0208 Environmental cues for herring spawning,NA,TRUE,16
+367610,0209 Two species of rougheye rockfishes in the northern Gulf of Alaska,NA,TRUE,89
+367626,0210 Nutritional quality of Alaskan fish for predators,NA,TRUE,NA
+366876,0211 Sinking particles/pelagic food webs in the SE Bering Sea,NA,TRUE,7
+367581,0301 Evaluation of emergent structure in low-relief benthic habitats as a criterion for defining the essential fish habitat of juvenile North Pacific...,NA,TRUE,6
+366511,0302 A continuous plankton recorder survey of the North Pacific and southern Bering Sea,NA,TRUE,1
+366835,"0303 North Pacific Anadromous Fish Commission Cooperative Research: Use of genetic stock identification to determine the distribution, migration, ear...",NA,TRUE,114
+367700,0304 Deep sea coral distribution and habitat in the Aleutian Archipelago,NA,TRUE,8
+367529,0305 Monitoring and modeling predator-prey relationships,NA,TRUE,89
+367731,"0306 Species identity and life history of Hematodinium, the causative agent of bitter crab syndrome in Northeast Pacific snow (opilio) and Tanner (ba...",NA,TRUE,7
+367545,0307 Bering Sea right whales: ongoing research and public outreach,NA,TRUE,9
+367766,0308 Forage fishes in the western Gulf of Alaska: variation in productivity,NA,TRUE,39
+367784,0309 Sperm whale and longline fisheries interactions in the Gulf of Alaska,NA,TRUE,3
+367555,0310 Estuaries as essential fish habitat for salmonids: assessing residence time and habitat use of coho and sockeye salmon in Alaska estuaries,NA,TRUE,5
+367572,"0311 Establishing a statewide data warehouse of salmon size, age and growth records",NA,TRUE,1
+368471,0312 Ice seal bio-monitoring in the Bering-Chukchi Sea region,NA,TRUE,20
+367511,0313 Effects of prey availability and predation risk on the foraging ecology and demography of harbor seals in Prince William Sound: development and ...,NA,TRUE,86
+367492,0314 Thermal habitat preferences of Pacific halibut and the potential influence of hydrographic variability on a local coastal fishery,NA,TRUE,53
+372223,0315 Continuation of long-term observations on the Bering Sea shelf: Biophysical moorings at sites 2 and 4,NA,TRUE,33
+368508,"0316 Essential fish habitat for blue king crab, Phase 1: Development of cultivation techniques for blue king crab larvae",NA,TRUE,2
+372207,0317 Pre-season forecast of Bristol Bay sockeye salmon migration timing based on oceanographic and biological variables,NA,TRUE,13
+366461,"0318 Pilot project for development of comprehensive baseline commercial fishing community engagement and dependency profiles for the Bering Sea, Aleu...",NA,TRUE,18
+372253,0319 Retrospective study of pigmented macrophage aggregates as markers of Pacific herring population health,NA,TRUE,3
+367463,0320 Regime forcing and ecosystem response in the Bering Sea (ReFER): Phase II,NA,TRUE,40
+368419,"0321 Evaluation of alternative hypotheses to explain the collapse of the Kvichak sockeye salmon: a project to catalyze a comprehensive, hypotheses-dr...",NA,TRUE,9
+367863,0322 Spatial and temporal interactions between endangered short-tailed albatrosses and North Pacific commercial fisheries,NA,TRUE,2
+368437,0324 Bering Sea wintering grounds of beluga whales,NA,TRUE,7
+365899,0325 Video monitoring aboard Bering Sea factory trawlers - a pilot study,NA,TRUE,1
+367480,0326 Enhancing rural high school involvement in North Pacific resource issues through participation in Alaska Regional National Ocean Sciences Bowl,NA,TRUE,1
+366467,"0327 Early marine ecology of juvenile chum salmon in Kuskokwim Bay, Alaska",NA,TRUE,11
+367389,0401 Survey strategies for assessment of Bering Sea forage species,NA,TRUE,1967
+367853,0402 Evaluation of ocean circulation models for the Bering Sea and Aleutian Islands Region,NA,TRUE,1
+367429,0403 Building an education and outreach program for the North Pacific Research Board,NA,TRUE,1
+367440,0404 Alaska Marine Information System,NA,TRUE,1
+367313,0406 Synthesis of marine biology and oceanography of southeast Alaska,NA,TRUE,1
+368460,"0407 Kelp-grazer interactions in Kachemak Bay, Alaska: grazing activity, chemical defenses and resource allocation",NA,TRUE,6
+367367,0409 Integration of marine bird and mammal observations with the Pacific continuous plankton recorder (CPR) program: temporal variability in ecosyste...,NA,TRUE,814
+370330,0410 Long-term observations on the Bering Sea shelf (2004-2005): biophysical moorings at sites 2 and 4 as sentinels for ecosystem change,NA,TRUE,3
+367266,0411 Investigations into dietary specialization of killer whales in the Bering Sea and Aleutian Islands,NA,TRUE,8
+366662,0412 Sperm Whale and longline fisheries interactions in the Gulf of Alaska - passive acoustic component,NA,TRUE,1
+367282,0413 Tufted puffins as biological indicators of forage fish availability in the western Gulf of Alaska,NA,TRUE,10
+366488,0414 Seasonal foraging strategies and consequences for Northern Fur Seals at Colonies with opposite population trends,NA,TRUE,13
+367301,0415 Investigations of a skate nursery area in the eastern Bering Sea,NA,TRUE,6
+368705,0416 Determining the ecological value of habitat to juvenile rockfish in the Aleutian Islands,NA,TRUE,23
+368723,"0417 Reproductive ecology of Atka mackerel, Pleurogrammus monopterygius, in Alaska",NA,TRUE,9
+366887,"0418 Abundance, life history, and population demographics of Spiny Dogfish, Squalus acanthias",NA,TRUE,1
+366501,0419 Modeling of multispecies groundfish interactions in the eastern Bering Sea,NA,TRUE,19
+367247,0420 Interannual and spatial variation in population genetic composition of northeastern Gulf of Alaska young-of-the-year Pacific ocean perch,NA,TRUE,2
+368487,0421 Identification of polybrominated diphenyl ethers (PBDEs) in sediments and biota in a pristine southeast Alaska watershed and near a municipal wa...,NA,TRUE,6
+367225,0422 Ecological implications of fisheries-based economical development in Nelson Lagoon: Steller's Eider critical habitat,NA,TRUE,10
+371532,"0423 An international market model for King, Tanner and Snow crab",NA,TRUE,9
+366927,0501 Harbor seal vital rates,NA,TRUE,7
+367687,0502 Integration of Ecological Indicators for the North Pacific with emphasis on the Bering Sea: A workshop Approach,NA,TRUE,1
+368744,0503 Arctic Ocean synthesis,NA,TRUE,48
+368500,0504 Analysis of ongoing salmon programs,NA,TRUE,193
+367158,0505 EBS walleye pollock: a spatially explicit model,NA,TRUE,18
+367174,0506 Pollock tagging mortality,NA,TRUE,16
+368768,"0507 Essential habitat for Pribilof Island Blue King Crab, phase 2",NA,TRUE,14
+367186,0508 Female reproductive output of snow crab in eastern Bering Sea,NA,TRUE,13
+367665,0509 Retrospective analysis of Kodiak Red King Crab,NA,TRUE,106
+367136,0510 Skate life history and demography,NA,TRUE,10
+366383,0511 Spiny dogfish in Alaska,NA,TRUE,14
+367149,"0512 Juvenile POP genetics, phase 2",NA,TRUE,14
+368783,0513 Winter movements of fur seal pups,NA,TRUE,27
+366409,0514 Consequences of Fur Seal foraging strategies,NA,TRUE,19
+366305,0515 Ice Seal movements,NA,TRUE,24
+366644,0516 Seabirds as indicators of marine ecosystems,NA,TRUE,6
+370317,0517 Sentinels for Bering Sea ecosystem change,NA,TRUE,10
+370581,0518 Bering Sea whales and oceanography,NA,TRUE,4751
+367112,0519 Bering Sea whale acoustics,NA,TRUE,6
+367125,0520 Gulf of Alaska Long-Term Observations,NA,TRUE,2
+366207,0521 A profiling echosounder for North Pacific monitoring,NA,TRUE,1
+370303,0522 Reproductive biology of Atka Mackerel,NA,TRUE,13
+366552,0523 Pollock recruitment and stock structure,NA,TRUE,3260
+368796,0524 Productivity of capelin and pollock,NA,TRUE,39
+366575,0525 Modeling multispecies groundfish interactions,NA,TRUE,1
+366945,0527 Evaluation of Sperm Whale deterrents,NA,TRUE,1
+366331,0528 Socioeconomic baseline information for the Pribilof Islands,NA,TRUE,16
+367089,0529 Valuation of habitat closures,NA,TRUE,3892
+367104,0530 Institutions for ecosystem-based management: Alaska,NA,TRUE,1
+367060,0531 Seabird-fish models,NA,TRUE,13
+367073,0532 Albatross habitat and fisheries interaction,NA,TRUE,19
+368813,0533 Safety evaluation of fisheries management,NA,TRUE,10
+368828,0534 Expanding the seabird tissue archival,NA,TRUE,6
+367033,0535 Dietary specialization of Killer Whales,NA,TRUE,8
+366971,0536 A continuous plankton recorder survey of the North Pacific and southern Bering Sea,NA,TRUE,5
+367052,0537 Building an education and outreach program for the North Pacific Research Board,NA,TRUE,1
+366977,0601 A continuous plankton recorder survey of the North Pacific and southern Bering Sea,NA,TRUE,1
+370341,0602 Sentinels for Bering Sea ecosystem change,NA,TRUE,7
+366802,0603 Gulf of Alaska Long-Term Observations,NA,TRUE,95
+367253,0604 Retrospective analyses of Norton Sound benthic fauna,NA,TRUE,37
+367829,0605 Modeling Pacific Cod Vital Rates in the Bering Sea,NA,TRUE,819
+368523,0606 limate and Variation in SEBS Jellyfish Populations,NA,TRUE,11
+368542,0607 Response of lower trophic production to climate change,NA,TRUE,937
+366432,0608 Response of Bering Sea Ecosystem to Climate,NA,TRUE,461
+368856,0609 Pelagic seabird distribution and climate change,NA,TRUE,12
+368875,0610 Selective mortality in pollock larvae,NA,TRUE,14
+367018,0611 North Pacific Ecosystem Structure,NA,TRUE,4
+368890,0612 COASST-Alaska,NA,TRUE,23
+368901,0614 Gulf of Alaska NPZ modeling,NA,TRUE,1051
+366785,0615 Marine Habitat Mapping Workshop,NA,TRUE,1
+366766,0616 Chiswell Ridge Habitat Mapping,NA,TRUE,77
+368558,0617 Halibut migration in BSAI,NA,TRUE,90
+368572,0618 Cod maturity in the Bering Sea,NA,TRUE,13
+366350,0619 Habitat connectivity during ontogeny,NA,TRUE,151
+366741,0620 Estimating movement rates of Pacific cod,NA,TRUE,19
+368918,0621 GOA Skate Diet,NA,TRUE,15
+366369,0622 Seasonal predation by key Bering Sea and Gulf of Alaska fish,NA,TRUE,51
+368933,0623 Q-PCR to assess impacts of Hematodinium on Tanner crabs,NA,TRUE,14
+368955,0624 Larval snow crab transport and survival in the Bering Sea,NA,TRUE,14615
+368591,0625 Assessment of BB RKC Resource for Future Management,NA,TRUE,12
+366984,0626 Sperm Whale Depredation,NA,TRUE,1905
+366714,0627 Identifying life history characteristics of squid,NA,TRUE,18
+366700,0628 Life history and demographics of large sculpins,NA,TRUE,51
+368606,0629 Maternal effects in Pacific Ocean Perch,NA,TRUE,16
+366725,0630 Food web linkages: Forage Fish in the Aleutian Archipelago,NA,TRUE,21
+368621,0631 Population structure of ringed seals,NA,TRUE,22
+370525,0632 Walruses in the Bering Sea,NA,TRUE,29
+370218,0633 Right whale habitat at multiple scales,NA,TRUE,32
+368640,0634 Bowhead whale genetic structure,NA,TRUE,16
+368985,0635 Isotopic comparison of cetacean muscle and epidermis,NA,TRUE,13
+368997,0636 Critical foraging habitat of lactating northern fur seals,NA,TRUE,72
+367813,0637 North Pacific Pelagic Seabird Program,NA,TRUE,56
+368658,0638 Auklet demography and climate variability,NA,TRUE,110
+366690,0639 Northern Fur Seal Law and Policy Issues,NA,TRUE,1
+366678,"0640 Community Profiles: Adak, St. George, St. Paul & Sand Point",NA,TRUE,113
+369008,0641 Trichinellosis of walrus and man in Chukchi Peninsula,NA,TRUE,28
+369025,0642 Forage Fish Prince William Sound Nearshore,NA,TRUE,32
+370212,0643 Bering Strait LTK,NA,TRUE,106
+369041,0644 Paralytic Shellfish Poison Monitoring in Aleut Region,NA,TRUE,16
+369054,0645 Subsistence Uses of Alaska Rockfish,NA,TRUE,39
+366633,0646 Steller Sea Lions in Alaska,NA,TRUE,6
+370350,0701 Sentinels for Ecosystem Change:  Long-term Biophysical Moorings on the Bering Sea Shelf (2007-2008),NA,TRUE,31
+366923,0702 Development and Testing of a Real-Time Ocean Data Transmitting Buoy for the Gulf of Alaska,NA,TRUE,21
+366914,0703 Education and Outreach for NPRB,NA,TRUE,1
+367011,0704 Developing the Alaska Marine Information System,NA,TRUE,1
+369066,0705 Trends in the Bering Sea Ice Cover,NA,TRUE,5375
+371616,0706 THE BERING-CHUKCHI QUIKSCAT WIND FIELD,NA,TRUE,39
+366287,0708 Gulf of Alaska LTOP,NA,TRUE,94
+369112,0709 Flatfish species-habitat association,NA,TRUE,32
+369134,0710 Potential trawl impacts upon flatfish nurseries,NA,TRUE,23
+369157,"0711 Unobserved, trawl-induced injuries to Bering Sea crabs",NA,TRUE,210
+369177,0712 Bycatch characterization in the Pacific halibut fishery,NA,TRUE,7
+369206,0713 Snow crab growth with climate warming in the Bering Sea,NA,TRUE,9
+369222,0714 Reproductive potential of king and snow crabs,NA,TRUE,12
+369235,0715 Skate Life History and Demography,NA,TRUE,8
+369248,0716 Squid acoustics,NA,TRUE,10
+369259,0717 Sea otter decline,NA,TRUE,65
+370019,0718 Right whale breeding habitat in the Pacific Islands,NA,TRUE,78
+369963,0719 Analysis of Bering Sea data,NA,TRUE,8
+369277,0720 Migration of North Pacific Right Whales,NA,TRUE,6
+369294,0722 North Pacific Seabird Diet Database,NA,TRUE,29
+371649,0723 Short-tailed Albatross New Colony Establishment,NA,TRUE,1
+369325,0724 Diet assessment in threatened eiders,NA,TRUE,7
+369342,0725 Fisheries Rationalization and Crew,NA,TRUE,6
+369351,0726 Sediment Quality Triad Assessment in Kachemak Bay,NA,TRUE,9
+369375,0727 TBT contamination from shipping,NA,TRUE,8
+369386,0728 Herring Synthesis,NA,TRUE,124
+369403,0729 Nearshore Residency & Movements of Copper Rockfish & Lingcod,NA,TRUE,10
+369421,0730 Cooperative Aleutian Islands pollock survey,NA,TRUE,46
+366811,0731 Temperature data collections on BS groundfish vessels,NA,TRUE,7
+369441,0732 COASST Alaska,NA,TRUE,10
+369940,0733 PICBOMP,NA,TRUE,7
+369448,0734 An Updated Hydrology Model for the Gulf of Alaska,NA,TRUE,26
+370500,0801 Seabird and marine mammals combined with CPR,NA,TRUE,9
+366942,0802 Education and Outreach for the North Pacific Research Board,NA,TRUE,1
+369454,0803 A Continuous Plankton Recorder Survey of the North Pacific and southern Bering Sea,NA,TRUE,18
+369462,0804 Seward Line Monitoring,NA,TRUE,22
+370004,0805 On-shelf transport of mesozooplankton in subarctic seas,NA,TRUE,7589
+371355,0806 Regional comparison of Euphausia pacifica fecundity,NA,TRUE,9
+369465,0808 Habitat and production of skate nursery sites,NA,TRUE,18648
+369487,0809 Improved trawl survey for patchily-distributed rockfish,NA,TRUE,22
+369499,0810 Rockfish Assessment in Untrawlable Habitat,NA,TRUE,24
+370060,0811 QPCR assay for larval crab quantification and identification,NA,TRUE,16
+369534,0812 Reproductive indices of male snow crabs,NA,TRUE,15
+371459,0813 Snow Crab Management Strategy Evaluation,NA,TRUE,250366
+371316,0814 Tanner crab recruitment processes,NA,TRUE,2414
+371589,0815 Cod spawning migration and distribution in the Bering Sea,NA,TRUE,1
+369545,0816 Sources and dispersal histories of EBS Pacific cod recruits,NA,TRUE,15
+369578,0817 Examining Pacific cod population structure with landscape genetics,NA,TRUE,11
+370554,0818 Walrus Foraging Response to a Changing Chukchi Sea,NA,TRUE,18
+369593,0819 Overwinter Condition of Marbled Murrelet a Declining Seabird,NA,TRUE,13
+371810,0820 Habitat Use by Spectacled Eiders in the Bering Sea,NA,TRUE,49
+369977,0821 Domoic Acid in Mussels,NA,TRUE,15
+369609,0822 Mercury levels in Norton Sound murre and gull eggs,NA,TRUE,33
+369647,0823 Cultural Models of Copper River Salmon Biology,NA,TRUE,11
+369693,0825 Assessment of BBRKC for Future Mgmt – Implementation,NA,TRUE,8
+369712,0826 A cooperative approach to whale bycatch reduction in Alaska,NA,TRUE,9
+370091,0827 Array-based Ambient Noise monitoring,NA,TRUE,7942
+368335,0828 Synthesis of in-situ and Satellite Measurements in the Aleutian Passes,NA,TRUE,111
+370407,0829 Aleutian Extreme Event Detection,NA,TRUE,11
+369999,0901 Alaska Marine Information System,NA,TRUE,1
+369994,0902 PICES Report,NA,TRUE,1
+369726,0903 CPR,NA,TRUE,17
+365971,0904 Estimating freshwater fluxes into the Gulf of Alaska,NA,TRUE,1264
+370475,0905 Habitat utilization between canyon and slope during ontogeny,NA,TRUE,787
+370506,0906 Octopus Field Studies,NA,TRUE,8
+369731,0907 Maturity of Aleutian Islands rockfish,NA,TRUE,17
+371924,0908 Fine-scale genetic structure of NE GOA POP,NA,TRUE,7
+366028,0909 Cooperative & Noncooperative Management of Straddling Stocks,NA,TRUE,NA
+369745,0910 Photo-id of Cook Inlet Beluga Whales,NA,TRUE,10
+371790,0911 Winter Ecology of Bering Sea Seabirds,NA,TRUE,537
+370452,0912 Studying diets in threatened eiders,NA,TRUE,4
+369766,0913 Induction of Hematodinium in Tanner crabs,NA,TRUE,9
+370434,0914 Trichinellosis in marine mammals and its transmission to man,NA,TRUE,4
+371438,0915 Disease severity in Chinook salmon during marine migration,NA,TRUE,8
+369779,0916 Lake Iliamna Freshwater Seal Study,NA,TRUE,7
+369802,0917 Reducing bycatch mortality in commercial crab fisheries,NA,TRUE,13
+367950,0918 Sperm whale depredation,NA,TRUE,1877
+368004,0920 Shoreline Change on Sagavanirktok Delta,NA,TRUE,245
+369829,"0921 Coastal Erosion/Accretion Processes in Hooper Bay, Alaska",NA,TRUE,21
+371708,0922 ELCMP,NA,TRUE,10
+369843,0923 Ecological impacts of the 2008 Kasatochi eruption.,NA,TRUE,32
+369871,0924 Molecular identification of larvae and diet,NA,TRUE,5
+369887,0925 Improved Alaskan Shellfish Safety,NA,TRUE,13
+371696,0926 Using flow cytometry to assess the condition of fish larvae,NA,TRUE,9
+367964,0927 Integrating In Situ Biochemical Sampling on a Glider,NA,TRUE,21
+369900,0928 Tracking tagged fish with an autonomous underwater vehicle,NA,TRUE,11
+371344,0929 WEBSEC-72 zooplankton,NA,TRUE,8
+371964,1001 CPR,NA,TRUE,6
+367659,1002,NA,TRUE,1
+370355,1003 Bowhead Whale Stable Isotopes For Tracking Arctic Food Web Changes,NA,TRUE,7
+370244,1004 Moored Observations of Ocean Acidification in the Gulf of Alaska,NA,TRUE,4
+370381,1005 Octopus tagging studies,NA,TRUE,8
+371406,1006 Age-0 pollock index,NA,TRUE,6
+371938,1007 Atka mackerel small-scale population abundance and movement,NA,TRUE,23
+281367,1008B Salmon bycatch in the BSAI pollock fisheries,NA,TRUE,2
+370038,1009 Chinook Survival,NA,TRUE,4
+372048,1010 Ocean acidification and reproduction of Tanner crabs,NA,TRUE,83
+370272,1011 Predation and survival of young Steller sea lions in the Gulf of Alaska,NA,TRUE,18
+372161,1012 SEAK sea otters and fisheries,NA,TRUE,163
+371551,1013 Ingalimuit Traditional KNowledge of Walrus in the Bering Strait,NA,TRUE,1
+371369,1014 Short-Tailed Albatross New Colony Establishment Phase 2,NA,TRUE,87
+371424,1015 Distribution and transmission of Ichthyophonus,NA,TRUE,10
+368355,1016 Marine macroinvertebrates of Alaska,NA,TRUE,7
+370162,1017 Alternative catch monitoring in Alaska,NA,TRUE,4
+365831,1018 Comparison of Red King Crab Biomass Estimates,NA,TRUE,7
+367977,1019 Assessment of Health Conditions of Subsistence Fish and Shellfish,NA,TRUE,14
+370183,1020 BeringWatch,NA,TRUE,4
+371394,1021 Tools for Detecting of PSP Causing Organisms,NA,TRUE,8
+367357,1022 Modeling Norther Fur Seal Vital Rates,NA,TRUE,4
+371836,1023 Burton Island zooplankton,NA,TRUE,4
+367933,1024 Climate forcing in Alaskan ecosystems: an indicator approach,NA,TRUE,4
+367921,1101 Relating deep ocean habitat conditions to faunal distribution,NA,TRUE,6
+371575,1102 Biophysical Moorings,NA,TRUE,1
+370570,1103 Crab Overfishing Limits,NA,TRUE,7
+370730,1104 Maturity of flatfishes in the eastern Bering Sea and Aleutian Islands,NA,TRUE,4
+370747,1105 Stable isotope age validation of Pacific cod,NA,TRUE,5
+366231,1106 Spiny dogfish age and growth,NA,TRUE,10
+371894,1107 Mapping Tanner crab habitat,NA,TRUE,304082
+366528,1108 Assessment of eastern Norton Sound red king crab.,NA,TRUE,19
+370420,1109 Development of Polymorphic EST Markers in Sebastes,NA,TRUE,4
+372084,1110 Pink salmon response to climate change,NA,TRUE,5
+366169,1111 Over-winter Survival of Bristol Bay Sockeye Salmon at Sea,NA,TRUE,NA
+372070,1112 Foraging energetics of northern fur seals in the Bering Sea,NA,TRUE,115
+371500,1113 Algal toxins and marine mammals,NA,TRUE,7
+281377,1114B Steller sea lion diet and population trend in the Aleutians,NA,TRUE,8
+370597,1115 Between Pacific Tides in Sitka,NA,TRUE,7
+370621,1116 Local and scientific understanding of Iliamna Lake seals,NA,TRUE,4
+371869,1117 Reducing mortality of Alaska crabs due to trawling,NA,TRUE,917
+372186,1118 Improved Saxitoxin Detection Kit,NA,TRUE,15
+371967,1119 Development and testing of satellite-linked fluorometers,NA,TRUE,43
+371881,1120 Augmenting Steller Sea Lion Surveys in the Western Aleutians With Unmanned Aircraft,NA,TRUE,9845
+370107,1121 Improving radar technology to survey non-colonial seabirds,NA,TRUE,14
+372115,1122 Development of a fish health and composition analyzer,NA,TRUE,6
+371845,1124 Data rescue through a citizen-science initiative,NA,TRUE,1
+370260,1125 Arctic cod population genetics and stock structure.,NA,TRUE,4
+281387,1201 Ice mobility and shelf basin exchange in the Beaufort Sea,NA,TRUE,298
+281397,1202 Skate 14C age validation,NA,TRUE,8
+281406,1203 Octopus discard mortality,NA,TRUE,2
+281415,1204 Seasonal habitat use and productivity of rockfish in the GOA,NA,TRUE,9
+281424,1205 Settlement size and nursery habitats,NA,TRUE,270186
+281433,1206 Terrestrial influence on glacial-marine food webs,NA,TRUE,3
+371623,1207 Habitat characterization of Pacific Sand Lance,NA,TRUE,30
+281442,1208 Developing a euphausiid time series for the central Gulf of Alaska,NA,TRUE,3
+370687,1209 North Pacific sperm whale catches,NA,TRUE,204
+367334,"1210 Photo-Id of Cook Inlet Beluga Whales, 2009-2011",NA,TRUE,4
+281451,1211 Historic carbon and nitrogen isotope record of Pacific walrus,NA,TRUE,3
+372337,1213 Seabirds as indicators,NA,TRUE,1
+367209,1214 Empirical measures for Alaskan fishing communities,NA,TRUE,7
+371772,1215 Evaluation of the Abraxis Saxitoxin ELISA,NA,TRUE,13
+370663,1216 Seabird Youth Network (SYSN),NA,TRUE,5
+367906,1217 Countermeasures to reduce whale depredation in Alaskan longline fisheries,NA,TRUE,3949
+370146,1218 Arctic vertical array acoustic tracking,NA,TRUE,275
+281469,1219 Alaskan rockfish SNPs,NA,TRUE,5
+372236,1220 Mitochondrial DNA barcodes to identify marine fishes and invertebrates,NA,TRUE,9
+365945,1221 Red King Crab Age Assessment,NA,TRUE,2
+298403,1222 Technology development- Improving phytoplankton assessment,NA,TRUE,1
+365920,1223 Stable Isotope Analysis of Herring Scales,NA,TRUE,52
+371735,1224 Alternative methods for satellite tagging beluga whales,NA,TRUE,8
+366193,1225 Alaska region bathymetric digital elevation model,NA,TRUE,700
+281478,1227 Benthic lower trophic level food webs in the Chukchi and Beaufort Seas,NA,TRUE,4
+281487,1228 Climate change impacts on Arctic cod vital rates,NA,TRUE,6
+281496,1229 Importance of coastal Arctic ecosystems,NA,TRUE,943
+281505,1301 Cross-isobath exchange in Bering Canyon,NA,TRUE,20
+281533,1304 Age- and length-structured assessment,NA,TRUE,15
+281569,1308 Early marine ecology of juvenile chinook salmon,NA,TRUE,9
+281578,"1309 Fishery, Climate, and Ecological Effects on Pacific Halibut Size-at-age",NA,TRUE,22
+368177,1311 Coxiella burnetii in northern sea otters of Alaska,NA,TRUE,7
+281596,1312 Assessment of a genetics mark-recapture for pacific walruses,NA,TRUE,2
+371470,1313 Coxiella and Brucella in Northern Fur Seals,NA,TRUE,14
+281605,1314 Polar bears as sentinels for Arctic zoonoses,NA,TRUE,4
+281614,1315 Bioeffects assessment in Bristol Bay,NA,TRUE,2
+366084,1316 Sea Ice in Barrow Project Jukebox,NA,TRUE,8
+281623,1317 BeringWatch: King CV Fishermen sentinels,NA,TRUE,2
+281632,1319 Benthic impacts of raised groundgear for the Bering sea pollock,NA,TRUE,1867
+281650,"1321 Blue king crab, habitat, and the ecosystem",NA,TRUE,361
+281723,1406 Physiological capacity of belugas to alter foraging behavior,NA,TRUE,8
+281732,1407 Fecal hormones in otariids,NA,TRUE,1
+281813,1416 Estimating calling depths of bowhead and right whales,NA,TRUE,8
+366590,BSIERP BEST-BSIERP,NA,TRUE,NA
+2575507,0100 test,NA,NA,1
+2575667,NPRB metadata template- folder,NA,NA,NA
+2576663,Metadata templates,NA,NA,2
+2577287,1701 Mixotrophy in the coastal Gulf of Alaska,NA,TRUE,22
+2577303,1702 Data and information in salmon stock-recruitment analysis,NA,TRUE,9
+2577320,1703 Juvenile sablefish condition and growth,NA,TRUE,5
+2577337,1704 Somatic growth regulation in the Pacific halibut,NA,TRUE,9
+2577354,1705 Tanner crab response to temperature change and Hematodinium,NA,TRUE,29
+2577371,1706 Spatio-temporal variation in forage fish body condition,NA,TRUE,3
+2577389,1707 Spawning capelin in Norton Sound,NA,TRUE,17
+2577407,1708 Reproductive maturation of Pacific herring,NA,TRUE,9
+2577424,1709 Physiological ecology of Neocalanus flemingeri,NA,TRUE,6
+2577440,1710 State-space model of factors affecting coho survival and abundance,NA,TRUE,3
+2577456,1711 Pacific sleeper shark bioenergetics,NA,TRUE,14
+2577475,1712 Oil spills and Pacific herring population recruitment,NA,TRUE,15
+2577493,1713 Genetics of mating dynamics in EBS snow crab,NA,TRUE,39
+2577511,1714 Population genetic structure of Northern Fulmar bycatch,NA,TRUE,12
+2577529,1715 Diet and reproductive rates in variable populations of two otariids,NA,TRUE,9
+2577550,1716 The relationship between polar bear stress hormones and sea ice change,NA,TRUE,3
+2577572,1717 Reliable Areas of Uncertainty for Vocalizing Marine Mammals,NA,TRUE,18
+2577588,1718 Cook Inlet Beluga Whale Reproductive Rates,NA,TRUE,6
+2577604,1719 Policy Choices and Permit Migration in an LEP Fishery,NA,TRUE,2
+2577622,1720 Connecting Fishery Policies to Fishing Portfolios,NA,TRUE,20
+2577642,1721 Effective Co-management of Marine Mammals in Alaska,NA,TRUE,9
+2577660,1722 COASST Citizen Science,NA,TRUE,5
+2577681,1723 Epigenetic aging of Cook Inlet beluga whales,NA,TRUE,5
+2577697,1724 A sex identification assay for Chinook salmon,NA,TRUE,2
+2577716,1725 Improving satellite collars,NA,TRUE,3
+2577737,1726 Whaling data rescue,NA,TRUE,3
+2577754,1727 Archiving seabird specimens from the Selendang Ayu oil spill.,NA,TRUE,6
+2577771,"1728 Data Rescue: NODC Files of Benthic Infauna, 1971-1980",NA,TRUE,124
+2986719,1801 PSP Toxins in the Alaska Marine Food Web,NA,TRUE,44
+2986738,1802 Hot spots of activity in the cold ocean,NA,TRUE,6
+2986756,1803 Hormone profiles for yelloweye rockfish,NA,TRUE,8
+2986777,1804 Survey design for untrawlable habitat in the Gulf of Alaska,NA,TRUE,5
+2986796,1805 Spatio-temporal model for estimating groundfish availability,NA,TRUE,11
+2986816,1806  Pcod IBM Validation and Enhancement,NA,TRUE,98
+2986840,1807 Ichthyophonus in Pacific Herring,NA,TRUE,13
+2986858,1808 Identifying distinct herring stocks via genetic sequencing,NA,TRUE,9
+2986876,1809 Integrated abundance and movement models for marine mammals,NA,TRUE,10
+2986894,1810 Identifying Ambiguous Bering Sea calls,NA,TRUE,7
+2986915,1811 Establishing baseline ringed seal sea ice breeding habitat,NA,TRUE,17
+2986933,1812 Resolving the annual pelagic distribution of Tufted Puffins,NA,TRUE,3304
+2986951,1813 Distribution and abundance of Chukchi Sea polar bears and seals,NA,TRUE,10
+2986974,1814 Impact of lagoon habitat change on Steller's eiders,NA,TRUE,15
+2986995,1815 Bayesian Integration of LTK and Western Science,NA,TRUE,21
+2987016,1816 Cooperative pilot study for Pacific cod tagging in the Aleutians,NA,TRUE,717
+2987035,1817 A new technique to measure body condition in Steller sea lions,NA,TRUE,3
+2987052,1818 Using UAS to survey seabirds: a validation study,NA,TRUE,4867
+2987070,1819 Ageing fish otoliths with NIRS,NA,TRUE,14
+2987089,1820 Data Rescue: Digitizing and Disseminating Historical Board of Fisheries Documents and Commercial Fisheries News Releases.,NA,TRUE,11
+2987110,1821 Mercury bioaccumulation in southeastern Bering Sea,NA,TRUE,13
+5199930,1901 Accounting for life-history shifts in fishery management,NA,TRUE,8
+5199949,1902 Body size and spawning abundance of Sockeye Salmon,NA,TRUE,182
+5199967,1903 Thermal effects on Gulf of Alaska Pacific cod,NA,TRUE,24
+5199987,1904 Shell Arctic Acoustic Data Rescue,NA,TRUE,8
+5200005,1905 Seal habitat,NA,TRUE,7
+5200318,Reports Test Project,NA,NA,1
+5216395,Reports Test Project,NA,NA,NA
+5343706,1906 Improved Freshwater Runoff Products for Alaskan Waters,NA,TRUE,2
+5343725,1907 Tracing the fate of phytoplankton-derived carbon in Chukchi shelf sediments,NA,TRUE,3
+5343742,1908 A novel approach to track mercury through marine food-webs,NA,TRUE,4
+5343762,1909 Phenology and geography of marine fish,NA,TRUE,9
+5343783,1910 Salmon winter ecology,NA,TRUE,9
+5343805,1911 Variation in body condition of Bering Sea snow crab,NA,TRUE,30
+5343824,1912 Predicting Arctic benthic habitat suitability,NA,TRUE,10
+5343843,1913 Sea otter and walrus specimen archival at the UA Museum,NA,TRUE,3
+5343864,1914 Monitoring export fluxes in the St. Lawrence Island Polynya region,NA,TRUE,8
+6467293,2001 High-resolution primary productivity in the Gulf of Alaska,NA,TRUE,14
+6467310,2002 Growth resiliency to starvation in larval Sablefish,NA,TRUE,8
+6467331,2003 Pacific cod spawning habitat in a changing Bering Sea,NA,TRUE,38
+6467353,2004 Supplemental funding: Pacific sleeper sharks,NA,TRUE,11
+6467372,"2005 They told us there'd come a time.... Conserving Fish, Preserving Tradition on the Yukon River",NA,TRUE,16
+6467389,2006 Evaluating GOA ecosystem drivers using the Atlantis model,NA,TRUE,12
+6467414,2007 Seabird diet changes over 4000 years,NA,TRUE,NA
+6634176,"2101 Northern Merperson Migrations, 2009-2010",NA,TRUE,1
+7791998,2008 Long-term decline in copepod size in Alaska’s large marine ecosystems,NA,TRUE,4
+7792017,2009 Pacific halibut recreational DMRs,NA,TRUE,4
+7792036,2010 Pacific sleeper shark movement ecology,NA,TRUE,9
+7792056,2011 Age estimation for Steller sea lions using DNA methylation,NA,TRUE,2
+7792076,2012 Assessing long-term cryopelagic change with a marine bird,NA,TRUE,3
+7792098,2013 Fishery adaptive capacity,NA,TRUE,14
+7792119,2014 Well-Being and Rural Fishing Livelihoods,NA,TRUE,5
+24244016,2001 High-resolution primary productivity in the Gulf of Alaska,NA,NA,NA
+24244033,2002 Growth resiliency to starvation in larval Sablefish,NA,NA,NA
+24244054,2003 Pacific cod spawning habitat in a changing Bering Sea,NA,NA,NA
+24244076,2004 Supplemental funding: Pacific sleeper sharks,NA,NA,NA
+24244095,"2005 They told us there'd come a time.... Conserving Fish, Preserving Tradition on the Yukon River",NA,NA,NA
+24244112,2006 Evaluating GOA ecosystem drivers using the Atlantis model,NA,NA,NA
+24244137,2007 Seabird diet changes over 4000 years,NA,NA,NA
+24244158,2008 Long-term decline in copepod size in Alaska’s large marine ecosystems,NA,NA,NA
+24244177,2009 Pacific halibut recreational DMRs,NA,NA,NA
+24244196,2010 Pacific sleeper shark movement ecology,NA,NA,NA
+24244216,2011 Age estimation for Steller sea lions using DNA methylation,NA,NA,NA
+24244236,2012 Assessing long-term cryopelagic change with a marine bird,NA,NA,NA
+24244258,2013 Fishery adaptive capacity,NA,NA,NA
+24244279,2014 Well-Being and Rural Fishing Livelihoods,NA,NA,NA
+24246340,2101 Volcanic ash and phytoplankton in the subarctic NE Pacific,NA,NA,NA
+24246361,2102 Gulf of Alaska deep-sea zooplankton,NA,NA,NA
+24246379,2103 Arctic cod passive acoustic monitoring,NA,NA,NA
+24246399,2104 Epidemiology and pathology of black eye syndrome,NA,NA,NA
+24246420,2105 Seabirds: Synthesis of change,NA,NA,NA
+24246443,2106 Spotted seal in Karaginsky Gulf,NA,NA,NA
+24246462,2107 Hearing damage in bowhead whales,NA,NA,NA
+24246480,2101 Volcanic ash and phytoplankton in the subarctic NE Pacific,NA,NA,NA
+24246501,2102 Gulf of Alaska deep-sea zooplankton,NA,NA,NA
+24246519,2103 Arctic cod passive acoustic monitoring,NA,NA,NA
+24246539,2104 Epidemiology and pathology of black eye syndrome,NA,NA,NA
+24246560,2105 Seabirds: Synthesis of change,NA,NA,NA
+24246583,2106 Spotted seal in Karaginsky Gulf,NA,NA,NA
+24246602,2107 Hearing damage in bowhead whales,NA,NA,NA
+24249785,2101 Volcanic ash and phytoplankton in the subarctic NE Pacific,NA,TRUE,NA
+24249806,2102 Gulf of Alaska deep-sea zooplankton,NA,TRUE,7
+24249824,2103 Arctic cod passive acoustic monitoring,NA,TRUE,78057
+24249844,2104 Epidemiology and pathology of black eye syndrome,NA,TRUE,4
+24249865,2105 Seabirds: Synthesis of change,NA,TRUE,28
+24249888,2106 Spotted seal in Karaginsky Gulf,NA,TRUE,5
+24249907,2107 Hearing damage in bowhead whales,NA,TRUE,4
+369082,0707 Alaskan Ferry Oceanographic Monitoring,NA,TRUE,39
+41525553,2114 Health assessment of southeast Alaska humpback whales,NA,TRUE,3
+41531037,2117: Acoustic measurement of bowhead whale migration speed,NA,TRUE,7
+41531420,2101 Volcanic ash and phytoplankton in the subarctic NE Pacific,NA,NA,NA
+41531441,2102 Gulf of Alaska deep-sea zooplankton,NA,NA,NA
+41531459,2103 Arctic cod passive acoustic monitoring,NA,NA,NA
+41531479,2104 Epidemiology and pathology of black eye syndrome,NA,NA,NA
+41531500,2105 Seabirds: Synthesis of change,NA,NA,NA
+41531523,2106 Spotted seal in Karaginsky Gulf,NA,NA,NA
+41531542,2107 Hearing damage in bowhead whales,NA,NA,NA
+41531560,2108 Smallest phytoplankton in the NGA,NA,TRUE,NA
+41531577,2109 Marine heat and acidification events in the Gulf of Alaska,NA,TRUE,3
+41531599,2110 Pacific halibut Population Genomics,NA,NA,NA
+41531619,2111 Reproduction of Alaska Corals,NA,TRUE,NA
+41531637,2112 Genomic resources for Alaska rockfish sustainability and management,NA,TRUE,2
+41531658,2113 Satellite tracking bowhead whales in the 2020s,NA,TRUE,33
+41531681,2114 Health assessment of Southeast Alaska Humpback whales,NA,NA,NA
+41531702,"2115 Diverse knowledge systems for the examination of localized dynamics of sea otters and abalone populations in Sitka Sound, Alaska",NA,TRUE,8
+41531721,2116 Sharing and resilience in Bering Sea and Arctic ecosystems,NA,TRUE,NA
+41531739,2117 Acoustic Measurement of Bowhead Whale Migration Speed,NA,TRUE,NA
+41531757,2118 Oceanographic influences on the habitat use of ice seals,NA,TRUE,9
+41534488,2110 Pacific halibut population genetics,NA,TRUE,10
+41709430,2201 Shifting patterns in phytoplankton blooms,NA,TRUE,3
+41709448,2202 Bering Sea Inner Shelf:  Improving system understanding,NA,TRUE,NA
+41709468,2203 Automation of Sockeye Salmon Scale Age Estimation,NA,TRUE,3
+41709487,2204 Pacific Cod response to warming: looking back to see forward,NA,TRUE,3
+41709505,2205 Mapping Common Eider Use for Informing NEPA,NA,TRUE,4
+41709525,2206 BRIDGING KNOWLEDGE TO INFORM BERING SEA MANAGEMENT (BKIBS),NA,TRUE,1
+41709552,2207 Engaging Yukon Fishers in Research on Chinook Salmon Decline,NA,TRUE,3
+41802756,h3 playground,NA,NA,1
+41859249,2209 Development and application of the beluga skin transcriptome,NA,TRUE,1
+41859642,2213 Combining the eastern Bering Sea shelf and slope surveys,NA,TRUE,2
+41859664,2210 Yukon River and Norton Sound Chum salmon Marine Ecology,NA,TRUE,6
+41859688,2211 Climate Drivers of Yukon River Chinook Productivity,NA,NA,NA
+41861041,2211 Climate drivers of Yukon River chinkook productivity,NA,TRUE,1
+41874517,2212 Adaptation of thermal tolerance in an invasive tunicate,NA,TRUE,35
+41901859,2208 Alaskan pinniped diving constraints and adaptive capacity,NA,TRUE,3
+42163826,2214: Pinto abalone mariculture potential,NA,TRUE,97
+42372274,2301: Ageing Pacific sleeper shark,NA,TRUE,9
+42372283,2302: Resource partitioning among north Pacific flatfishes,NA,TRUE,NA
+42372296,2303: DNA diet validation trials with northern fur seals,NA,TRUE,NA
+42372305,2304: Biochemical studies of individual bowhead whale baleen,NA,TRUE,24
+42372316,2305: Fatty acid dried spots and snow crab BES,NA,TRUE,NA
+42728746,2306: Extending the North Pacific Continuous Plankton Recorder Survey Into the Western Arctic Ocean,NA,NA,1
+42728765,2313: Trans-Pacific zooplankton and seabird surveys,NA,NA,NA
+42735714,2312 Seabird Use of Spatially-Predictable Tidal Rips,NA,NA,NA
+42735764,2309 Bristol Bay red king crab movement,NA,NA,NA
+42735781,2308 Bristol Bay red king crab settlement potential,NA,NA,NA
+42773796,2311 Age validation of Gulf of Alaska groundfishes,NA,NA,NA
+42773812,2314 Accelerometry and stable isoptopes of northern fur seal pups,NA,NA,NA
+42827359,2307 Decadal study on ecological dynamics of Pacific salmon,NA,NA,NA
